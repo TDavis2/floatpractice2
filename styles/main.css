@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+}
+
+section h1 {
+    font-size: 200%;
+
+}
+
+section h2 img{
+    width: 33%;
+    height: 33%;
+    margin: 15px;
+    position: relative;
+    left: 50px;
+
+}
+
+section h2 p {
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    position: relative; 
+    left: 700px;
+    bottom: 500px;
+
+}
+
+section h3 img{
+    width: 33%;
+    height: 33%;
+    margin: 15px;
+    position: relative;
+    left: 850px;
+
+}
+
+section h3 p {
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    position: relative;
+    left: 200px;
+    bottom: 500px;
+
+
+}
+
+footer p {
+    font-size: 75%;
+    text-align: center;
+
+}
+
+
+
